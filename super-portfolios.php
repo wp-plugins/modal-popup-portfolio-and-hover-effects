@@ -2,10 +2,10 @@
 /*
 Plugin Name: Super portfolios and effects 
 Plugin URI: http://demo.wpcops.com/
-Description: super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
+Description: modal popup portfolio and hover effects plugin providing your modal description for portfolio and few effects on your portfolio image.
 Author: Prince Chowdhury
 Author URI: http://demo.wpcops.com/
-Version: 1.3
+Version: 1.0
 */
 
 //Loading CSS
