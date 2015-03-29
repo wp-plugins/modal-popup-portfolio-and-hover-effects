@@ -49,6 +49,7 @@ return array(
 	
 				),	),			
 
+				/*
 					array(
 						'type' => 'select',
 						'name' => 'google_font',
@@ -62,13 +63,19 @@ return array(
 								),
 							),
 						),
-					),				
+					),	*/
+
+           /*					
 					array(
 						'type'  => 'color',
 						'name'  => 'text_color',
 						'label' => __('Text Color', 'vp_textdomain'),
 						//'default' => '#dddddd',
-					),										
+					),		
+
+            */
+
+            /*			
 					array(
 						'type' => 'checkbox',
 						'name' => 'link_open',
@@ -80,6 +87,7 @@ return array(
 						),
 					),
 					
+					*/
 
 
 				
