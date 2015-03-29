@@ -23,7 +23,7 @@ See live demo here: http://www.demo.wpcops.com/plugins/modal-popup-portfolio-and
 <ul>
 	<li>Super easy Installation. </li>
 	<li>Pure CSS3 Effects </li>
-	<li>7 portfolio Effects (free version). </li>
+	<li>5 portfolio Effects (free version). </li>
 	<li>Custom post enabled. </li>
 	<li>Category Support. </li>
 	<li>Custom ordering. </li>
