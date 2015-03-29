@@ -13,7 +13,7 @@ modal popup portfolio and hover effects plugin providing your modal description 
 
 == Description ==
 
-super portfolios and effects plugin providing your modal description for portfolio and few effects on your portfolio image
+modal popup portfolio and hover effects plugin providing your modal description for portfolio and few effects on your portfolio image
 
 You can easily add portfolios using an image & embed them in separate page post.
 
