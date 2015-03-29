@@ -1,6 +1,6 @@
 <?php
 
-
+/*
 
 return array(
 	array(
@@ -63,10 +63,10 @@ return array(
 					'description' => __('<a href="#">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas</a>', 'vp_textdomain'),
 					'status' => 'info',
 					),
-			*/
+			
 		),
 	),
 );
-		
+*/		
 		
 ?>
