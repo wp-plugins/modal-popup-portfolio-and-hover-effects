@@ -16,24 +16,26 @@
 	
 	.reveal-modal {
 		visibility: hidden;
-		width: 88%;
-		background: none repeat scroll 0% 0% #FFF;
+		
+		top: -350px !important; 
+		left: 41%;
+		margin-left: -300px;
+		width: 900px;
+		background: #eee url(modal-gloss.png) no-repeat -200px -80px;
 		position: absolute;
-		z-index: 60000;
+		height: 1900px;
+		
+		z-index: 101;
+		padding: 30px 40px 34px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 		border-radius: 5px;
 		-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
 		-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
 		-box-shadow: 0 0 10px rgba(0,0,0,.4);
-		top:30px !important;
 		}
 		
-	.reveal-modal.small 		{ width: 200px; margin-left: -140px;}
-	.reveal-modal.medium 		{ width: 400px; margin-left: -240px;}
-	.reveal-modal.large 		{ width: 600px; margin-left: -340px;}
-	.reveal-modal.xlarge 		{ width: 800px; margin-left: -440px;}
-	
+
 	.reveal-modal .close-reveal-modal {
 		font-size: 22px;
 		line-height: .5;
@@ -84,9 +86,11 @@
 }
 
 .sidebar-portfolios p{
-        font-family: Georgia;
-		color: #000;
-		font-size: 13px;
+	font-family: inherit;
+	color: #000;
+	font-size: 14px;
+	margin: -18px 0px -2px 3px !important;
+	padding: 15px 12px 9px 8px;
 
 
 }
@@ -99,6 +103,21 @@
     background-color: #FFF;
     box-shadow: -2px -1px 5px 6px #B8E4B5;;
 }
+
+.modalsoc ul {
+      list-style-type:none !important;
+
+}
+
+.modalsoc ul li {
+    float: left;
+    display: inline;
+    margin: 9px 4px 19px;
+    box-shadow: 0px 0px 11px 1px #80DE80;
+}
+
+
+
 
 
 
