@@ -5,7 +5,7 @@ Plugin URI: http://demo.wpcops.com/
 Description: modal popup portfolio and hover effects plugin providing your modal description for portfolio and few effects on your portfolio image.
 Author: Prince Chowdhury
 Author URI: http://demo.wpcops.com/
-Version: 1.0
+Version: 1.1
 */
 
 //Loading CSS

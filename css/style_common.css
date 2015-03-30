@@ -57,27 +57,28 @@
 }
 
 
-div.ports-img {
-
+div.img {
     margin: 5px;
     padding: 5px;
+    border: 1px solid #ACACB3;
     height: auto;
-    width: 100%;
+    width: auto;
     float: left;
     text-align: center;
-
 }	
 
-div.ports-img img {
-    display: inline;
-    margin: 5px;
-    border: 1px solid #ffffff;
-	width:500px;
-	height:400px;
+div.img img {
+		display: inline;
+		margin-left:10px;
+		margin-right:10px;
+		border: 1px solid #FFF;
+		width: 200px;
+		height:200px;
+		
 }
 
-div.ports-img a:hover img {
-    border: 1px solid #0000ff;
+div.img a:hover img {
+    border: 1px solid #B6B6D2;
 }
 
 div.desc {

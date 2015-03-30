@@ -61,6 +61,9 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 
 == Changelog ==
 
+= 1.1 = 
+*Updated modal with new design
+
 = 1.0 =
 * First Release
 
