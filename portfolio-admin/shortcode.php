@@ -74,19 +74,19 @@ function portfolios_custom_post_type_shortcode($atts){
 	<div class="fullscontent">
 		     <h1>'.$title.'</h1>
  
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_1.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_2.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_3.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_4.'" alt="" ></a>
 
 </div>
@@ -146,19 +146,19 @@ function portfolios_custom_post_type_shortcode($atts){
 	<div class="fullscontent">
 		     <h1>'.$title.'</h1>
  
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_1.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_2.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_3.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_4.'" alt="" ></a>
 
 </div>
@@ -210,19 +210,19 @@ function portfolios_custom_post_type_shortcode($atts){
 	<div class="fullscontent">
 		     <h1>'.$title.'</h1>
  
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_1.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_2.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_3.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_4.'" alt="" ></a>
 
 </div>
@@ -267,7 +267,7 @@ function portfolios_custom_post_type_shortcode($atts){
 	<div class="fullscontent">
 		     <h1>'.$title.'</h1>
  
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_1.'" alt="" ></a>
 
 
@@ -318,20 +318,20 @@ function portfolios_custom_post_type_shortcode($atts){
 	<div class="fullscontent">
 		     <h1>'.$title.'</h1>
  
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_1.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_2.'" alt="" ></a>
 
 </div>
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_3.'" alt="" ></a>
 
 </div>
 
-<div class="ports-img">
+<div class="img">
  <a target="_blank" href="#"><img src="'.$portpic_4.'" alt="" ></a>
 
 </div>
