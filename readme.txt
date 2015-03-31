@@ -17,7 +17,9 @@ modal popup portfolio and hover effects plugin providing your modal description 
 
 You can easily add portfolios using an image & embed them in separate page post.
 
-See live demo here: http://www.demo.wpcops.com/plugins/modal-popup-portfolio-and-hover-effects/
+See live free version demo here: http://demo.wpcops.com/effect1/
+
+
 
 <strong>Features</strong>
 <ul>
