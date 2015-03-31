@@ -32,7 +32,9 @@ See live free version demo here: http://demo.wpcops.com/effect1/
 	<li> option panel. </li>
 	<li>Shortcode Powered. </li>
 	<li>shortcode generator </li>
-	<li>All Major browser supported. </li>
+	<li>Must be full width pages </li>
+
+       
 
 </ul>
 
