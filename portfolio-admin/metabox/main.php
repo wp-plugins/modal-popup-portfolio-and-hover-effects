@@ -126,7 +126,7 @@ return array(
 			'type' => 'noteboxpro',
 			'name' => 'noteboxforport',
 			'label' => __('enter your all description', 'vp_textdomain'),
-			'description' => __('For this Features you have to buy premium plugin.<a href="http://www.wpcops.com" target="_blank">click here for see all effects and feature</a>','vp_textdomain'),
+			'description' => __('For this Features you have to buy premium plugin.<a href="http://wpcops.com/downloads/modal-popup-portfolios-and-hover-effects-pro/" target="_blank">click here for see all effects and feature</a>','vp_textdomain'),
 			'status' => 'normal',
 		),
 					
