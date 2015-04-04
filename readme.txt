@@ -21,12 +21,13 @@ See live free version demo here: http://demo.wpcops.com/effect1/
 
 
 
-<strong>Features</strong>
+<strong>Free Features</strong>
 <ul>
 	<li>Super easy Installation. </li>
-	<li>Pure CSS3 Effects </li>
-	<li>5 portfolio Effects (free version). </li>
+	<li>CSS3 and Jquery Effects </li>
+	<li>5 portfolio image Effects (free version). </li>
 	<li>Custom post enabled. </li>
+        <li>modal popup with some option</li>
 	<li>Category Support. </li>
 	<li>Custom ordering. </li>
 	<li> option panel. </li>
@@ -34,11 +35,32 @@ See live free version demo here: http://demo.wpcops.com/effect1/
 	<li>shortcode generator </li>
 	<li>Must be full width pages </li>
 
-       
+       See live free version demo here: http://demo.wpcops.com/effect1/
 
 </ul>
 
+</br>
+<strong>Pro Features</strong>
+<ul>
+	<li>Super easy Installation. </li>
+	<li>CSS3 and Jquery Effects </li>
+	<li>20 portfolio image Effects (free version). </li>
+	<li>Custom post enabled. </li>
+        <li>modal popup with all options</li>
+	<li>Category Support. </li>
+	<li>Custom ordering. </li>
+	<li> option panel. </li>
+	<li>Shortcode Powered. </li>
+	<li>shortcode generator </li>
+	<li>Must be full width pages </li>
+        <li>24/7 supports</li>
 
+        Checkout and buy pro version: http://wpcops.com/downloads/modal-popup-portfolios-and-hover-effects-pro/
+  
+
+       
+
+</ul>
 
 
 
@@ -62,6 +84,8 @@ Use category title, not category id or slag. Make sure spelling is ok. It is cas
 2. Option panel for this plugin.
 3. Shortcode button in editor
 4. shortcode generator
+
+See this link for screenshot http://wpcops.com/screenshots-for-modal-popup-portfolio-and-hover-effects/
 
 == Changelog ==
 
