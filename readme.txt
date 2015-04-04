@@ -56,7 +56,7 @@ See live free version demo here: http://demo.wpcops.com/effect1/
 	<li>Shortcode Powered. </li>
 	<li>shortcode generator </li>
 	<li>Must be full width pages </li>
-        <li>24/7 supports</li>
+        <li>24/7 customer supports</li>
 
         Checkout and buy pro version: http://wpcops.com/downloads/modal-popup-portfolios-and-hover-effects-pro/
   
